@@ -24,6 +24,7 @@ public class Ex08Logout extends HttpServlet {
 //		session.invalidate();
 		response.sendRedirect("Ex08LoginForm.html");
 		
+		
 	}
 
 }
